@@ -11,12 +11,13 @@ The outcomes of this hackaton will be:
 
 # Resources #
 - data (list, mock, reduced datasets, selected for this exercise)
-- 
+
 - ontologies (list)
-- 
+
 - tools (list)
-- 
+
 - literature (list)
+
 
 # Methods #
 To add the annotation
