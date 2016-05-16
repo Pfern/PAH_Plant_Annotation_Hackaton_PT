@@ -24,7 +24,7 @@ Our aim is to get acquainted with alternative methods of adding annotation to ex
 
 # Methods #
 
-We develop a Plant Annotation Guide describing how plants can be annotated, including: 
+We develop a Plant Annotation Guide (https://github.com/Pfern/PAH_Plant_Annotation_Hackaton_PT/blob/master/Plant%20Annotation%20Guide) describing how plants can be annotated, including: 
 - using Google spreadsheets and possibly add-ons like OntoMaton
 - using drop down lists
 - how to export the speadsheets to other formats (CSV? TSV?)
