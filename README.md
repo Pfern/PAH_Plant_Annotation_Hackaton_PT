@@ -11,6 +11,7 @@ The outcomes of this hackaton will be:
 
 # Resources #
 - data (list, mock, reduced datasets, selected for this exercise)
+Casuarina dataset (ITQB)
 
 - ontologies (list)
 
