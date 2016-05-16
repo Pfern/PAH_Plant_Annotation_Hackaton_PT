@@ -19,11 +19,12 @@ Our aim is to get acquainted with alternative methods of adding annotation to ex
     
     Crop Ontology for field phenotyping data and traits Agronomy ontology and fieldbook (Celine Aubert) 
      *The idea is to develop an "intelligent" notebook with the defined terms to annotate field experiments that should make use of the traits defined by the trait dictionary or the crop ontology PEAO ENVO Planteome (data query, image annotation):
+     
      *Planteome is being developed by Oregon University in collaboration with French groups. This ontology is in fact a large ontology that integrates PO, ENVO, CO, TO, GO, PATO, by mapping these ontologies to each other. Unlike the crop ontology it is a species agnostic ontology. Some effort is being done to make the species specific crop ontologies easily mappable by using similar terms and also a similar architecture.
 
-    tools (list)
+ - tools (list)
 
-    literature (list)
+ - literature (list)
 
 
 
