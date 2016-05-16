@@ -1,4 +1,4 @@
-# PAH - Plant Annotation Traiining Material PT
+# PAH - Plant Annotation Training Material PT
 Annotating field and laboratory datasets for plant data. 
 This is a cooperative exercise initiated by Pedro Fernandes and Mario Silva, an initiative of the portuguese participation in EXCELERATE WP7, "Integrating Genomic and Phenotypic Data for Crop and Forest Plants". The overall challenge of this use case is to pick exemplar datasets and add phenotypic data in a standardised way, aiming at enhanced interoperability and discoverability.
 Our aim is to get acquainted with alternative methods of adding annotation to existing plant datasets of several types and share the results. 
