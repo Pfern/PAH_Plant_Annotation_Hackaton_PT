@@ -19,7 +19,7 @@ Casuarina dataset (ITQB)
 
 # Methods #
 
-We develop a Plant Annotation describing how plants can be annotated, including: 
+We develop a Plant Annotation Guide describing how plants can be annotated, including: 
 - using Google spreadsheets and possibly add-ons like OntoMaton
 - using drop down lists
 - how to export the speadsheets to other formats (CSV? TSV?)
@@ -27,7 +27,7 @@ We develop a Plant Annotation describing how plants can be annotated, including:
 - how to build repositories and maintain them (ISA-bii)
 - how to manipulate and merge repositories
 
-The outcomes of this hackaton will be:
+The Plant Annotation Guide will be drive an hackaton to train the commuity that will have the following learning outcomes:
 - user accessible annotated datasets incorporating phenotypic data and metadata, together with genotypic data.
 - data repositories resulting from these datasets
 - descriptions of the methods used in the above processes
